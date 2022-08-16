@@ -1,0 +1,27 @@
+:root{
+    --verde: #8EFA6C;
+    --black: #313530;
+    --menta: #AAEC95;
+
+}
+
+
+
+.contenedor{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5rem;
+}
+
+
+
+.boton {
+    background-color: var(--black);
+    color: aliceblue;
+    border-radius: 1.5rem;
+    height: 4rem;
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
